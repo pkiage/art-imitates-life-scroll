@@ -1,6 +1,6 @@
-# art-imitates-life-imitates
+# Art & Life Imitation
 
-[![pkiage](https://circleci.com/gh/pkiage/art-art-imitates-life-imitates.svg?style=svg)](https://app.circleci.com/pipelines/github/pkiage/art-imitates-life-scroll)
+[![pkiage](https://circleci.com/gh/pkiage/art-imitates-life.svg?style=svg)](https://app.circleci.com/pipelines/github/pkiage/art-imitates-life-scroll)
 
 ## Usage and Setup
 
@@ -21,8 +21,6 @@ Compile the code for development and start a local server:
 npm start
 
 ## Inspiration and References
-
-art imitates life imitates represent project phases.
 
 INSPIRED by ("Remixes/Samples/Forks"):
 
