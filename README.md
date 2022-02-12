@@ -1,6 +1,6 @@
 # Art & Life Imitation
 
-[![pkiage](https://circleci.com/gh/pkiage/art-imitates-life.svg?style=svg)](https://app.circleci.com/pipelines/github/pkiage/art-imitates-life-scroll)
+[![pkiage](https://circleci.com/gh/pkiage/art-imitates-life-scroll.svg?style=svg)](https://app.circleci.com/pipelines/github/pkiage/art-imitates-life-scroll)
 
 ## Usage and Setup
 
