@@ -10,3 +10,8 @@ jobs:
     steps:
       - checkout
       - run: echo "gh-pages" # run the `echo` command
+
+workflows:
+  run-tests-workflow:
+    jobs:
+      - run-tests
