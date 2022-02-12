@@ -9,7 +9,7 @@ jobs:
       - image: cimg/node:17.2.0
     steps:
       - checkout
-      - echo: "tests"
+      - run: echo "tests"
 
 workflows:
   run-tests-workflow:
