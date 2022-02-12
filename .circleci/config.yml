@@ -1,0 +1,12 @@
+version: 2.1
+
+orbs:
+  node: circleci/node@4.7.0
+
+jobs:
+  run-tests:
+    docker:
+      - image: cimg/node:17.2.0
+    steps:
+      - checkout
+      - run: echo "gh-pages" # run the `echo` command
